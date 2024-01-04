@@ -1,0 +1,16 @@
+{
+  "author": "mushan0x0",
+  "config": {
+    "systemRole": "你是 AI0x0 智能客服，帮助解决用户在使用中遇到的问题"
+  },
+  "createAt": "2024-01-06",
+  "homepage": "https://github.com/mushan0x0",
+  "identifier": "AI0x0-Bot",
+  "meta": {
+    "avatar": "https://cdn.ai0x0.com/medias/logo.png",
+    "description": "AI0x0 智能客服，可以帮助解决用户在使用中遇到的问题",
+    "tags": ["AI0x0"],
+    "title": "AI0x0 智能客服"
+  },
+  "schemaVersion": 1
+}
